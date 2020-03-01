@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>photo-1468495244123-6c6c332eeece.jpg</filename>
+	<path>C:\Users\Sai\Desktop\Images\photo-1468495244123-6c6c332eeece.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>84</ymin>
+			<xmax>441</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
