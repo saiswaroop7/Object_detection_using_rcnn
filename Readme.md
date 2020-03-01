@@ -2,6 +2,7 @@
 I have used Tensorflow to train my own object detection classifier and have programmed using the python programming language.
 I have selected Smart Phones as my objects for detection. I had to create an environment of tensorflow using anaconda prompt. After creating the environment, I have installed all the necessary packages for training like numpy, opencv, matlib, pillow, tensorflow-gpu etc. 
 After installing the necessary packages, I collected images of smart phone with different orientations, sizes, lightings, rotation as these influence the training accuracy highly. I collected around 250 images for my training and kept around 20 images for testing my classifier. After collecting the positive images, I have labelled all the images i.e. creating bounding boxes with the item as ‘phone’. When labelling the images, we generate xml files which contain the coordinates of the bounding boxes. After we have obtained xml files for every image, we create a single CSV file which contains the records of the all the image’s attributes.
+<br><br>
 
 ![Fig1. Labelling Images](https://github.com/saiswaroop7/Object_detection_using_rcnn/blob/master/Screenshots/LabelImg1.png)
 <p align="center">Fig1. Labelling Images</p>
